@@ -1,3 +1,7 @@
+#Made by MusicalVR
+#Use with proper permissions
+#DONT DO ANYTHING STUPID WITH IT
+
 import pynput.keyboard
 
 class SimpleKeylogger:
